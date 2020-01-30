@@ -1,0 +1,30 @@
+{
+    "diagrams": {
+        "show": "none"
+    },
+    "toc": {
+        "order": "alpha"
+    },
+    "pdf": {
+        "papersize": "letter",
+        "labels": {
+            "width": "auto",
+            "align": "left"
+        },
+        "chorus": {
+            "indent": 0,
+            "bar": {
+                "offset": 8,
+                "color": "grey"
+            },
+            "recall": {
+                "tag": "Chorus",
+                "type": "comment_italic",
+                "quote": false
+            }
+        },
+        "section": {
+            "chorus": "comment_italic"
+        }
+    }
+}
