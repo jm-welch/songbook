@@ -26,6 +26,7 @@
         "section": {
             "chorus": "comment_italic"
         },
+        "even-odd-pages": 0,
         "formats":{
             "default": {
                 "footer": ["%{title}", "", "%{page}"]

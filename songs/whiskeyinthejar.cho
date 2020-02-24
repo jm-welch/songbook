@@ -1,6 +1,9 @@
 {t:Whiskey in the Jar}
 {st:Trad}
 {key:D}
+{columns:2}
+{textsize:9}
+{chordsize:9}
 
 As [D]I was a goin' over the [Bm]far-famed Kerry mountains
 I [G]met with captain Farrell and his [D]money he was [Bm]counting
@@ -26,7 +29,7 @@ That Jenny took me charges and she filled them up with water
 Then sent for Captain Farrell to commence with the slaughter
 
 {chorus}
-
+{column_break}
 'Twas early in the morning, just before I rose to travel
 Up came a band of footmen and likewise Captain Farrell
 I first produced me pistol for she'd stole away me rapier
