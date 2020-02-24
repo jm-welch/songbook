@@ -25,6 +25,18 @@
         },
         "section": {
             "chorus": "comment_italic"
+        },
+        "formats":{
+            "default": {
+                "footer": ["%{title}", "", "%{page}"]
+            },
+            "title": {
+                "subtitle": ["", "%{subtitle}", "%{key|Key: %{}}%{capo|, capo %{}}"],
+                "footer": ["%{title}", "", "%{page}"]
+            },
+            "first": {
+                "footer": null
+            }
         }
     }
 }

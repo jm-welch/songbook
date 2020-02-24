@@ -1,13 +1,16 @@
 {t: Creeping Jane}
 {st: Trad}
 {key: D}
+{columns:2}
+#{textsize:9.5}
+#{chordsize:9}
 
 I'll [D]sing you a song and a very pretty one
 Con[G]cerning [D]Creeping Jane [A]o
 Why she [D]never saw a mare nor a gelding in her life
 That she [G]valued at the [D]worth of [A]half a [D]pin
 [A]Lal dee [D]day dee [A]o the [Bm]diddle lol de [G]day [D]o
-She never saw a mare or a gelding in her life
+She [D]never saw a mare or a gelding in her life
 That she [G]valued at the [D]worth of [A]half a [D]pin, [A]lal the [D]day
 
 When Creeping Jane to the racecourse came
@@ -26,6 +29,7 @@ Lal dee day dee o the diddle lol the day o
 Then the rider flung his whip into the bonny little maid
 And he says, My little lassie never mind, lal the day
 
+{column_break}
 Now when that they came to the third milepost
 Creeping Jane he looked blithe and smart o
 And then she lifted up her little lily-white hoof

@@ -1,5 +1,8 @@
 {t: Holland Handkerchief}
 {st: Trad}
+{columns:2}
+#{textsize:9.5}
+#{chordsize:10}
 
 A wealthy squire lived in our town;
 He was a man of very high renown.
@@ -31,6 +34,7 @@ And they rode swifter than any wind.
 They rode on for an hour or more,
 Till he cried, "My darling, my head feels sore!"
 
+{column_break}
 Her Holland handkerchief she then took out
 And with it wrapped his aching head about.
 She kissed his lips and to him did say,
