@@ -25,6 +25,19 @@
         },
         "section": {
             "chorus": "comment_italic"
+        },
+        "even-odd-pages": 0,
+        "formats":{
+            "default": {
+                "footer": ["%{title}", "", "%{page}"]
+            },
+            "title": {
+                "subtitle": ["", "%{subtitle}", "%{key|Key: %{}}%{capo|, capo %{}}"],
+                "footer": ["%{title}", "", "%{page}"]
+            },
+            "first": {
+                "footer": null
+            }
         }
     }
 }
