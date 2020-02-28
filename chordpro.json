@@ -1,4 +1,7 @@
 {
+    "metadata": {
+        "strict": false
+    },
     "diagrams": {
         "show": "none"
     },
@@ -36,7 +39,7 @@
                 "footer": ["%{title}", "", "%{page}"]
             },
             "first": {
-                "footer": null
+                "footer": ["%{ver|Version %{}}", "", "Download at https://github.com/jm-welch/songbook/releases/latest/sessionsongs.pdf"]
             }
         }
     }
